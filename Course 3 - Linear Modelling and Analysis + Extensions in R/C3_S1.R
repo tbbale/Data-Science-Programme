@@ -9,7 +9,7 @@
 # Course Aim: To familiarize participants with linear regression modelling 
 #             in R, including specification, testing and various extensions to 
 #             the classical linear model including panel-data, LASSO Regression etc. 
-
+#...
 # Today:
 # (0) Rstudio Projects, Git and Github
 # (1) Linear models with lm() and some built in tools and diagnostics
